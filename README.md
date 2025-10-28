@@ -1,2 +1,3 @@
-# python-project
-hjgjrefgjr2
+# python-project-1
+This project is a simple Python program called Smart Download Manager. It helps users organize their downloaded files using only basic programming concepts such as functions, loops, conditionals, file input and output, and simple automation. The program automatically detects each file’s category based on its extension, prevents duplicate entries, counts how many files exist in each category, and warns the user when a category becomes too large. It also allows searching for files by keyword, saves all information to a text file, and automatically generates a summary report and backup when the program exits.
+
